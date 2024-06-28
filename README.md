@@ -10,11 +10,10 @@ Steps:
 This will train ML model using Chaos PSO-SVM for bearing fault detection and capture the accuracy and performance metrics.
 This will also train ML model using Genetic Algorithm-Gaussian Naive Bayes for bearing fault detection and capture the accuracy and performance metrics.
 
-Performance metrics comparision:
-Chaos PSO SVM Based Fault Detection Metrics
-Accuracy: 96.74%
-Objective function value: 0.967391304347826
-Classification report:
+# Performance metrics comparision:
+# Chaos PSO SVM Based Fault Detection Metrics
+. Accuracy: 96.74%
+. Classification report:
               precision    recall  f1-score   support
 
            0       0.93      0.93      0.93        46
@@ -32,9 +31,9 @@ Classification report:
    macro avg       0.97      0.97      0.97       460
 weighted avg       0.97      0.97      0.97       460
 
-Genetic Algorithm - Gaussian Naive Bayes Based Fault Detection Metrics
-Accuracy: 93.04%
-Classification Report:
+# Genetic Algorithm - Gaussian Naive Bayes Based Fault Detection Metrics
+. Accuracy: 93.04%
+. Classification Report:
               precision    recall  f1-score   support
 
            0       0.93      0.93      0.93        46
