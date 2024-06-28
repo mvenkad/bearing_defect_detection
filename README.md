@@ -12,26 +12,6 @@ This will also train ML model using Genetic Algorithm-Gaussian Naive Bayes for b
 
 Performance metrics comparision:
 Chaos PSO SVM Based Fault Detection Metrics
-Iteration 1/20, Best Score: 0.9652173913043478
-Iteration 2/20, Best Score: 0.9652173913043478
-Iteration 3/20, Best Score: 0.9652173913043478
-Iteration 4/20, Best Score: 0.967391304347826
-Iteration 5/20, Best Score: 0.967391304347826
-Iteration 6/20, Best Score: 0.967391304347826
-Iteration 7/20, Best Score: 0.967391304347826
-Iteration 8/20, Best Score: 0.967391304347826
-Iteration 9/20, Best Score: 0.967391304347826
-Iteration 10/20, Best Score: 0.967391304347826
-Iteration 11/20, Best Score: 0.967391304347826
-Iteration 12/20, Best Score: 0.967391304347826
-Iteration 13/20, Best Score: 0.967391304347826
-Iteration 14/20, Best Score: 0.967391304347826
-Iteration 15/20, Best Score: 0.967391304347826
-Iteration 16/20, Best Score: 0.967391304347826
-Iteration 17/20, Best Score: 0.967391304347826
-Iteration 18/20, Best Score: 0.967391304347826
-Iteration 19/20, Best Score: 0.967391304347826
-Iteration 20/20, Best Score: 0.967391304347826
 Accuracy: 96.74%
 Objective function value: 0.967391304347826
 Classification report:
@@ -53,26 +33,6 @@ Classification report:
 weighted avg       0.97      0.97      0.97       460
 
 Genetic Algorithm - Gaussian Naive Bayes Based Fault Detection Metrics
-Generation 0, Best Fitness: 0.8768115942028986
-Generation 1, Best Fitness: 0.9094202898550725
-Generation 2, Best Fitness: 0.9130434782608695
-Generation 3, Best Fitness: 0.9166666666666666
-Generation 4, Best Fitness: 0.9202898550724637
-Generation 5, Best Fitness: 0.9239130434782609
-Generation 6, Best Fitness: 0.9257246376811594
-Generation 7, Best Fitness: 0.927536231884058
-Generation 8, Best Fitness: 0.9293478260869565
-Generation 9, Best Fitness: 0.9293478260869565
-Generation 10, Best Fitness: 0.9293478260869565
-Generation 11, Best Fitness: 0.9293478260869565
-Generation 12, Best Fitness: 0.9293478260869565
-Generation 13, Best Fitness: 0.9329710144927537
-Generation 14, Best Fitness: 0.9329710144927537
-Generation 15, Best Fitness: 0.9347826086956522
-Generation 16, Best Fitness: 0.9347826086956522
-Generation 17, Best Fitness: 0.9347826086956522
-Generation 18, Best Fitness: 0.9347826086956522
-Generation 19, Best Fitness: 0.9365942028985508
 Accuracy: 93.04%
 Classification Report:
               precision    recall  f1-score   support
